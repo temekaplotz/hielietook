@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shaijeituk.mattloveslinz.com/sitemap.xml
